@@ -110,13 +110,11 @@ EDA → preprocesamiento → entrenamiento → evaluación → análisis
 | DNN | 0.8869 | 0.8090 |
 
 ### Regresión
-
-| Modelo | MAE | RMSE | R² |
-| :--- | :--- | :--- | :--- |
-| CNN v1 | 10.21 | 13.97 | 0.369 |
-| CNN v2 | 9.77 | 13.41 | 0.419 |
-| ResNet18 | 7.58 | 10.19 | 0.664 |
-
+| Modelo | MAE | RMSE | R² | Nota |
+| :--- | :--- | :--- | :--- | :--- |
+| CNN v1 | 10.21 | 13.97 | 0.369 | Requerido por el enunciado |
+| CNN v2 | 9.77 | 13.41 | 0.419 | Mejora adicional |
+| ResNet18 | 7.58 | 10.19 | 0.664 | Mejora adicional |
 ---
 
 ## Instalación y ejecución
@@ -167,3 +165,4 @@ Problema 2:
 ## Autor
 
 Emmanuel Hernández
+Universidad EAFIT — Introducción a la Inteligencia Artificial 2026-01
